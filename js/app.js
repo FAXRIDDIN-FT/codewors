@@ -205,7 +205,7 @@
 }
 {// masala 5
     try {
-        // let son = prompt("Son kiriting:");
+   
         let a = Number(son);
     
         if (isNaN(a)) {
@@ -258,6 +258,8 @@
     }
     
 }
+
+
 
    
 
